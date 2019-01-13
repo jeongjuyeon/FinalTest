@@ -25,13 +25,6 @@
             android:text="한국은행"
             android:textSize="30sp" />
 
-        <TextView
-            android:id="@+id/codeTxt"
-            android:layout_marginLeft="10dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="001"/>
-
     </LinearLayout>
 
 </LinearLayout>

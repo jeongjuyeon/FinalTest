@@ -40,7 +40,6 @@ public class StoreAdapter extends ArrayAdapter<Store> {
 
         ImageView logoImg = row.findViewById(R.id.logoImg);
         TextView nameTxt = row.findViewById(R.id.nameTxt);
-        TextView codeTxt = row.findViewById(R.id.codeTxt);
 
         final Store data = mList.get(position);
 
